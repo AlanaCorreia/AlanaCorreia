@@ -1,12 +1,12 @@
 ### Hi there 👋
 
   Meu nome é Alana,  sou de Recife, Pernambuco. Formada em Direito, mas atualmente em transição de carreira, estudando desenvolvimento web na Trybe.  Apaixonada pela área de tecnologia , aprendi as seguintes tecnologias:  
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" width="50px">
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" width="50px">
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/jest.png" width="50px">
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" width="45px">
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" width="70px" height="45px">
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/jest.png" width="45px">
 <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width="50px">
 <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width="50px">
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" width="50px">
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" width="42px">
 
 <div>
   <a href="https://github.com/AlanaCorreia">
