@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanaCorreia&show_icons=true&theme=tokyonight"/>
 </div>
   
-  ### ✨ <a href="https://portfolio-alana-correia.netlify.app/" target="_blank">Meu portfólio</a> 
+  ### ✨ <a href="https://portfolio-alana-correia.netlify.app/" target="_blank" >Meu portfólio</a> 
 
 ### 📞 Contatos:
 
