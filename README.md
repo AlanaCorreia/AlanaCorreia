@@ -19,8 +19,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaCorreia&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanaCorreia&show_icons=true&theme=tokyonight"/>
 </div>
+  
+  ### ✨ Meu portfólio: https://portfolio-alana-correia.netlify.app/
 
-### Contatos:
+### 📞 Contatos:
 
 <div>
 <a href = "mailto:alanacorreia.ac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
