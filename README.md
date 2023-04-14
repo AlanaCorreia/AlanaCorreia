@@ -18,8 +18,8 @@
   </div> <br>
 <div>
   <a href="https://github.com/AlanaCorreia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaCorreia&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanaCorreia&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlanaCorreia&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanaCorreia&show_icons=true&theme=tokyonight"/>
 </div>
   
  ### 📞 Contatos:
